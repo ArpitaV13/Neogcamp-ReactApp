@@ -6,6 +6,7 @@ var emojiDictionary = {
   "🙂": "Ok Bhai",
   "😘": "Love",
   "😫": "Annoyed",
+
   "😔": "Sad",
   "😳": "Shocking",
   "🤪": "Tease",
