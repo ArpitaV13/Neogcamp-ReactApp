@@ -10,5 +10,5 @@ My First **React** App.:book: 📝
 
 A basic react app to know the meaning of emoticons  💓 🙂 😓 we use in our daily life.
 
-Do not forget to share it with your friends too.
+Do not forget to share it with your friends too. 🤝
  
