@@ -6,11 +6,14 @@ var emojiDictionary = {
   "🙂": "Ok Bhai",
   "😘": "Love",
   "😫": "Annoyed",
-
+  "😄": "Grinning face with smiling eyes",
   "😔": "Sad",
   "😳": "Shocking",
   "🤪": "Tease",
-  "🥺": "Please"
+  "🥺": "Please",
+  "😇": "Blessed",
+  "🤩": "Star Struck",
+  "🤑": "Money-Mouthed"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
@@ -44,7 +47,13 @@ export default function App() {
         return (
           <span
             onClick={() => emojiClickHandler(item)}
-            style={{ padding: "0.4rem", fontSize: "2rem", cursor: "pointer" }}
+            style={{
+              padding: "0.4rem",
+              fontSize: "2rem",
+              cursor: "pointer",
+              marginLeft: "5rem",
+              marginRight: "5rem"
+            }}
             key={item}
           >
             {item}
