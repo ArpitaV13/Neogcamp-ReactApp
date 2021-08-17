@@ -4,8 +4,6 @@
 [![Neog Camp](https://img.shields.io/badge/Neog-camp-brightgreen)]() 
 
 
-Created with CodeSandbox
-
 My First **React** App.:book: 📝
 
 A basic react app to know the meaning of emoticons  💓 🙂 😓 we use in our daily life.
